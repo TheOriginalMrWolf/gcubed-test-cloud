@@ -16,5 +16,5 @@
 			]
 		}
 	},
-	"onCreateCommand": "chmod +x .devcontainer/post-install-cleanup.sh && .devcontainer/post-install-cleanup.sh"
+	"onCreateCommand": ".devcontainer/post-install-cleanup.sh"
 }
