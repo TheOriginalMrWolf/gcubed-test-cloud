@@ -1,11 +1,11 @@
 type,attributes,variable,label
 pack,start_year=2018|end_year=2070,,Inflation and output
 chart,,,
-series,,GDPR(UU),
-series,,GDPR(NN),
+series,,GDPR(USA),
+series,,GDPR(ROW),
 chart,,,
-series,,INFP(UU),
-series,,INFP(NN),
+series,,INFP(USA),
+series,,INFP(ROW),
 chart,,,
-series,,INTN(UU),
-series,,INTN(NN),
+series,,INTN(USA),
+series,,INTN(ROW),
