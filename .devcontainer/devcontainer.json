@@ -12,7 +12,6 @@
 				}
 			},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
 				"mechatroner.rainbow-csv"
 			]
 		}

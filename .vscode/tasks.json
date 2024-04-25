@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Open graphing page",
+            "command": "python gcubed.graphics.hypercube",
+            "type": "shell",
+            "presentation": {
+                "reveal": "silent"
+            },
+            "isBackground": true,
+            "group": "none"
+        }
+    ]
+}
