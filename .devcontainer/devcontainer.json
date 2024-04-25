@@ -4,6 +4,7 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
+				"telemetry.telemetryLevel": "off",
 				"workbench.startupEditor": "none",
 				"workbench.colorTheme": "Default Dark Modern",
 				"workbench.editorAssociations": { 
