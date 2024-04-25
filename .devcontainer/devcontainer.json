@@ -16,5 +16,5 @@
 			]
 		}
 	},
-	"onCreateCommand": "pip3 install -r requirements.txt && pip3 install *.whl && rm *.whl && rm requirements.txt"
+	"onCreateCommand": ".devcontainer/post-install-cleanup.sh"
 }
