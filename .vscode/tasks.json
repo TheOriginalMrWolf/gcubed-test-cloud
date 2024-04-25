@@ -3,7 +3,7 @@
     "tasks": [
         {
             "label": "Open graphing page",
-            "command": "python gcubed.graphics.hypercube",
+            "command": "python -m gcubed.graphics.hypercube",
             "type": "shell",
             "presentation": {
                 "reveal": "silent"
