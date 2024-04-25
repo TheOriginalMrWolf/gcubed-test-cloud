@@ -1,0 +1,2 @@
+name,data,event_year,description
+Permanent US inflation target reduction,adjustments.csv,2019,Experiment to check handling of blank rows for some variables

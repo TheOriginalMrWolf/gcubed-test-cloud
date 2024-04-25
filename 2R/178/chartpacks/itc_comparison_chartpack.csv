@@ -1,0 +1,42 @@
+type,attributes,variable,label
+pack,end_year=2060,,ITC analysis
+chart,,,Investment tax credit for non-energy sector (TITC)
+series,color=blue,"TITC(a02,UU)",USA
+series,color=green,"TITC(a02,NN)",Rest of world
+chart,,,Productivity shock for non-energy sector (SHY)
+series,color=blue,"SHY(a02,UU)",USA
+series,color=green,"SHY(a02,NN)",Rest of world
+chart,,,Total investment (INVT)
+series,color=blue,INVT(UU),USA
+series,color=green,INVT(NN),Rest of world
+chart,,,Raw capital sector investment (INVY)
+series,color=blue,INVY(UU),USA
+series,color=green,INVY(NN),Rest of world
+chart,,,Household capital investment (INVZ)
+series,color=blue,INVZ(UU),USA
+series,color=green,INVZ(NN),Rest of world
+chart,,,Installed investment by sector (Rest of world INV)
+series,color=blue,"INV(a01,NN)",Energy
+series,color=green,"INV(a02,NN)",Non-energy
+chart,,,Tobin's Q by sector (Rest of world TOB)
+series,color=blue,"TOB(a01,NN)",Energy
+series,color=green,"TOB(a02,NN)",Non-energy
+series,color=orange,TOBY(NN),Raw capital sector
+series,color=magenta,TOBZ(NN),Households
+chart,,,LAM by sector (Rest of world LAM)
+series,color=blue,"LAM(a01,NN)",Energy
+series,color=green,"LAM(a02,NN)",Non-energy
+series,color=orange,LAMY(NN),Raw capital sector
+series,color=magenta,LAMZ(NN),Households
+chart,,,Real output  (OUTP)
+series,color=blue,OUTP(UU),USA
+series,color=green,OUTP(NN),Rest of world
+chart,,,Deficit (DEFI)
+series,color=blue,DEFI(UU),USA
+series,color=green,DEFI(NN),Rest of world
+chart,,,Govt debt (BOND)
+series,color=blue,BOND(UU),USA
+series,color=green,BOND(NN),Rest of world
+chart,,,Corporate Tax (TAXC)
+series,color=blue,TAXC(UU),USA
+series,color=green,TAXC(NN),Rest of world

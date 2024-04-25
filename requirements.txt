@@ -1,0 +1,13 @@
+pytest
+pandas
+pyarrow
+numpy
+scipy
+regex
+dash
+dash_bootstrap_components
+plotly
+webcolors
+pdoc
+black
+
