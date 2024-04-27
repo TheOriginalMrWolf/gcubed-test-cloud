@@ -1,3 +1,6 @@
+# Exclude contents of userdata as this will be their own repo
+userdata/*
+
 # MACOS generated files #
 #########################
 *.DS_Store
